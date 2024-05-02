@@ -17,10 +17,10 @@ import ChatGropus from './Chat-Groups.vue'
 </template>
 
 <style scoped>
-
 .chat-container{
     height: 20vh;
 }
+
 .body{
     height: 80vh;
     overflow: auto;
